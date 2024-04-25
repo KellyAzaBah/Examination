@@ -1,0 +1,14 @@
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\bin\Debug\net8.0\finals ex 3.exe
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\bin\Debug\net8.0\finals ex 3.deps.json
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\bin\Debug\net8.0\finals ex 3.runtimeconfig.json
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\bin\Debug\net8.0\finals ex 3.dll
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\bin\Debug\net8.0\finals ex 3.pdb
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\finals ex 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\finals ex 3.AssemblyInfoInputs.cache
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\finals ex 3.AssemblyInfo.cs
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\finals ex 3.csproj.CoreCompileInputs.cache
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\finals ex 3.dll
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\refint\finals ex 3.dll
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\finals ex 3.pdb
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\finals ex 3.genruntimeconfig.cache
+C:\Users\Калерия\Desktop\lessons\HW\finals ex 3\obj\Debug\net8.0\ref\finals ex 3.dll
